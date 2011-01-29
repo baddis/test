@@ -1,4 +1,4 @@
-this is only a test
-added a line
-added a third line
+git remote add origin git@github.com:baddis/test.git
+git push origin master
+
 
