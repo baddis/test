@@ -1,0 +1,77 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CC48B5C412F4A83800B27CD7 /* cppnutshell */;
+		activeTarget = 8DD76F620486A84900D96B5E /* cppnutshell */;
+		codeSenseManager = CC48B5CC12F4A85700B27CD7 /* Code sense */;
+		executables = (
+			CC48B5C412F4A83800B27CD7 /* cppnutshell */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 318023736;
+			PBXWorkspaceStateSaveDate = 318023736;
+		};
+		sourceControlManager = CC48B5CB12F4A85700B27CD7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1234, 882}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 143}";
+			sepNavWindowFrame = "{{396, 91}, {1293, 1010}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* cppnutshell */ = {
+		activeExec = 0;
+		executables = (
+			CC48B5C412F4A83800B27CD7 /* cppnutshell */,
+		);
+	};
+	CC48B5C412F4A83800B27CD7 /* cppnutshell */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = cppnutshell;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CC48B5CB12F4A85700B27CD7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CC48B5CC12F4A85700B27CD7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

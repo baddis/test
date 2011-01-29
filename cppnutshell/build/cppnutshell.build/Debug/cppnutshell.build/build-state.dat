@@ -1,0 +1,59 @@
+Tcppnutshell
+v7
+r0
+t318023797.894861
+cCheck dependencies
+cCompileC build/cppnutshell.build/Debug/cppnutshell.build/Objects-normal/x86_64/main.o /Users/bart/projects/test/cppnutshell/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/bart/projects/test/cppnutshell/build/Debug/cppnutshell normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/bart/projects/test/cppnutshell/build/Debug/cppnutshell
+t1296330955
+s10576
+
+N/Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/Objects-normal/x86_64/cppnutshell.LinkFileList
+c000000004D4470CA0000000000000073
+t1296330954
+s115
+
+N/Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/Objects-normal/x86_64/main.o
+t1296330954
+s66976
+
+N/Users/bart/projects/test/cppnutshell/main.cpp
+c000000004D4470B7000000000000008F
+t1296330935
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318023797#318023797#0(0"0(0#1#0"8604682496#0"0#
+
+CCompileC build/cppnutshell.build/Debug/cppnutshell.build/Objects-normal/x86_64/main.o /Users/bart/projects/test/cppnutshell/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318023754.091859
+e318023754.997577
+r1
+xCompileC
+xbuild/cppnutshell.build/Debug/cppnutshell.build/Objects-normal/x86_64/main.o
+x/Users/bart/projects/test/cppnutshell/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/bart/projects/test/cppnutshell/main.cpp318023754#318023754#0(0"2(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.318023739#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.318023739#18446744073709551615#0#0(1@0"0(0#0#46"/Users/bart/projects/test/cppnutshell/main.cpp7809643567100341248#1352"    cd /Users/bart/projects/test/cppnutshell    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/cppnutshell-generated-files.hmap -I/Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/cppnutshell-own-target-headers.hmap -I/Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/cppnutshell-all-target-headers.hmap -iquote /Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/cppnutshell-project-headers.hmap -F/Users/bart/projects/test/cppnutshell/build/Debug -I/Users/bart/projects/test/cppnutshell/build/Debug/include -I/Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/DerivedSources/x86_64 -I/Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/DerivedSources -c /Users/bart/projects/test/cppnutshell/main.cpp -o /Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/bart/projects/test/cppnutshell/build/Debug/cppnutshell normal x86_64
+s318023754.997712
+e318023755.668888
+r1
+xLd
+x/Users/bart/projects/test/cppnutshell/build/Debug/cppnutshell
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/bart/projects/test/cppnutshell/build/Debug/cppnutshell318023754#318023755#0(0"0(0#0#0"32651591226294388#509"    cd /Users/bart/projects/test/cppnutshell    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bart/projects/test/cppnutshell/build/Debug -F/Users/bart/projects/test/cppnutshell/build/Debug -filelist /Users/bart/projects/test/cppnutshell/build/cppnutshell.build/Debug/cppnutshell.build/Objects-normal/x86_64/cppnutshell.LinkFileList -mmacosx-version-min=10.6 -o /Users/bart/projects/test/cppnutshell/build/Debug/cppnutshell0#
+
