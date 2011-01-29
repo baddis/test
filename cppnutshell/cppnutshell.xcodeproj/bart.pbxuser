@@ -9,8 +9,34 @@
 			CC48B5C412F4A83800B27CD7 /* cppnutshell */,
 		);
 		perUserDictionary = {
-			PBXPerProjectTemplateStateSaveDate = 318023736;
-			PBXWorkspaceStateSaveDate = 318023736;
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318024681;
+			PBXWorkspaceStateSaveDate = 318024681;
+		};
+		perUserProjectItems = {
+			CC32F79412F4AC1D0016288A /* PBXBookmark */ = CC32F79412F4AC1D0016288A /* PBXBookmark */;
+			CC32F79F12F4AC7F0016288A /* PBXTextBookmark */ = CC32F79F12F4AC7F0016288A /* PBXTextBookmark */;
 		};
 		sourceControlManager = CC48B5CB12F4A85700B27CD7 /* Source Control */;
 		userBuildSettings = {
@@ -19,7 +45,7 @@
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1234, 882}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavSelRange = "{117, 0}";
 			sepNavVisRange = "{0, 143}";
 			sepNavWindowFrame = "{{396, 91}, {1293, 1010}}";
 		};
@@ -29,6 +55,20 @@
 		executables = (
 			CC48B5C412F4A83800B27CD7 /* cppnutshell */,
 		);
+	};
+	CC32F79412F4AC1D0016288A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+	};
+	CC32F79F12F4AC7F0016288A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 5";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
 	};
 	CC48B5C412F4A83800B27CD7 /* cppnutshell */ = {
 		isa = PBXExecutable;
